@@ -1,0 +1,4 @@
+requests==2.12.4
+ipdb==0.10.2
+inflect==0.2.5
+beautifulsoup4==4.6.0
